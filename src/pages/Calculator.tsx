@@ -14,7 +14,7 @@ interface Location {
   longitude: number
 }
 
-export default function CalculatorPage() {
+export default function Calculator() {
   const [searchQuery, setSearchQuery] = useState("")
   const [locations, setLocations] = useState<Location[]>([])
   const [selectedLocation, setSelectedLocation] = useState<Location | null>(null)
