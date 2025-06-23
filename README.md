@@ -2,6 +2,8 @@
 
 This is a tool that helps you **predict your solar panel energy generation** and **calculate money saved** — based on **real weather forecast data**.
 
+![image](https://github.com/user-attachments/assets/5dc35e1b-923b-4731-814c-b8eea0249a67)
+
 ---
 
 ## Features
